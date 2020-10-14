@@ -1,11 +1,11 @@
-import 'package:audio_player_flutter/src/app/common/widgets/widgets.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/blocs/blocs.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/models/audio_skip_button_type.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/widgets/audio_play_button.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/widgets/audio_skip_button.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/widgets/audio_slider.dart';
-import 'package:audio_player_flutter/src/services/services.dart';
-import 'package:audio_player_flutter/src/services/utils/free_functions.dart';
+import 'package:flutter_audio_player/src/app/common/widgets/widgets.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/blocs/blocs.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/models/audio_skip_button_type.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/widgets/audio_play_button.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/widgets/audio_skip_button.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/widgets/audio_slider.dart';
+import 'package:flutter_audio_player/src/services/services.dart';
+import 'package:flutter_audio_player/src/services/utils/free_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

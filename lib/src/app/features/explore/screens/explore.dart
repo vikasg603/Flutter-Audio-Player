@@ -1,9 +1,9 @@
-import 'package:audio_player_flutter/src/app/common/widgets/widgets.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/screens/audio_player.dart';
-import 'package:audio_player_flutter/src/app/features/explore/blocs/blocs.dart';
-import 'package:audio_player_flutter/src/app/features/explore/widgets/explore_item.dart';
-import 'package:audio_player_flutter/src/services/services.dart';
-import 'package:audio_player_flutter/src/services/utils/free_functions.dart';
+import 'package:flutter_audio_player/src/app/common/widgets/widgets.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/screens/audio_player.dart';
+import 'package:flutter_audio_player/src/app/features/explore/blocs/blocs.dart';
+import 'package:flutter_audio_player/src/app/features/explore/widgets/explore_item.dart';
+import 'package:flutter_audio_player/src/services/services.dart';
+import 'package:flutter_audio_player/src/services/utils/free_functions.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 

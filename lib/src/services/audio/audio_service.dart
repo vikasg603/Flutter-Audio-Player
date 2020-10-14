@@ -1,6 +1,6 @@
 library audio_service;
 
-import 'package:audio_player_flutter/src/services/models/audio_file/audio_file.dart';
+import 'package:flutter_audio_player/src/services/models/audio_file/audio_file.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:built_value/built_value.dart';
 import 'package:flutter/foundation.dart' show required;

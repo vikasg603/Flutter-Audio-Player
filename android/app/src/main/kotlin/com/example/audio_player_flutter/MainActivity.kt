@@ -1,4 +1,4 @@
-package com.example.audio_player_flutter
+package com.example.flutter_audio_player
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

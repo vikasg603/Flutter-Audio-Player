@@ -1,4 +1,4 @@
-package me.minikin.audio_player_flutter
+package me.minikin.flutter_audio_player
 
 import io.flutter.embedding.android.FlutterActivity
 

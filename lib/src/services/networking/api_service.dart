@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:audio_player_flutter/src/services/models/models.dart';
+import 'package:flutter_audio_player/src/services/models/models.dart';
 import 'package:built_collection/built_collection.dart';
 import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;

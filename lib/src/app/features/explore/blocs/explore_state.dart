@@ -1,6 +1,6 @@
 library explore_state;
 
-import 'package:audio_player_flutter/src/services/services.dart' show AudioFile;
+import 'package:flutter_audio_player/src/services/services.dart' show AudioFile;
 import 'package:built_collection/built_collection.dart';
 import 'package:built_value/built_value.dart';
 import 'package:flutter/foundation.dart';

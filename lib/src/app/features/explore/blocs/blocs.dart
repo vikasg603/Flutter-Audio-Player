@@ -1,3 +1,3 @@
-export 'package:audio_player_flutter/src/app/features/explore/blocs/explore_bloc.dart';
-export 'package:audio_player_flutter/src/app/features/explore/blocs/explore_event.dart';
-export 'package:audio_player_flutter/src/app/features/explore/blocs/explore_state.dart';
+export 'package:flutter_audio_player/src/app/features/explore/blocs/explore_bloc.dart';
+export 'package:flutter_audio_player/src/app/features/explore/blocs/explore_event.dart';
+export 'package:flutter_audio_player/src/app/features/explore/blocs/explore_state.dart';

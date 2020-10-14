@@ -1,10 +1,10 @@
 import 'dart:async';
 
-import 'package:audio_player_flutter/src/app/app.dart';
-import 'package:audio_player_flutter/src/app/common/blocs/app_bloc_delegate.dart';
-import 'package:audio_player_flutter/src/app/features/audio_player/blocs/blocs.dart';
-import 'package:audio_player_flutter/src/app/features/explore/blocs/blocs.dart';
-import 'package:audio_player_flutter/src/configurations/environment/environment.dart';
+import 'package:flutter_audio_player/src/app/app.dart';
+import 'package:flutter_audio_player/src/app/common/blocs/app_bloc_delegate.dart';
+import 'package:flutter_audio_player/src/app/features/audio_player/blocs/blocs.dart';
+import 'package:flutter_audio_player/src/app/features/explore/blocs/blocs.dart';
+import 'package:flutter_audio_player/src/configurations/environment/environment.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

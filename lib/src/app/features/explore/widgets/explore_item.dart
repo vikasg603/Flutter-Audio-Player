@@ -1,4 +1,4 @@
-import 'package:audio_player_flutter/src/services/services.dart';
+import 'package:flutter_audio_player/src/services/services.dart';
 import 'package:flutter/material.dart';
 import 'package:transparent_image/transparent_image.dart';
 

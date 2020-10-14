@@ -1,4 +1,4 @@
-import 'package:audio_player_flutter/src/app/features/explore/screens/explore.dart';
+import 'package:flutter_audio_player/src/app/features/explore/screens/explore.dart';
 import 'package:flutter/material.dart';
 
 class App extends StatelessWidget {

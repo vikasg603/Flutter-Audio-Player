@@ -1,6 +1,6 @@
-import 'package:audio_player_flutter/src/app/features/explore/blocs/blocs.dart';
-import 'package:audio_player_flutter/src/configurations/environment/environment.dart';
-import 'package:audio_player_flutter/src/services/services.dart';
+import 'package:flutter_audio_player/src/app/features/explore/blocs/blocs.dart';
+import 'package:flutter_audio_player/src/configurations/environment/environment.dart';
+import 'package:flutter_audio_player/src/services/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
 class ExploreBloc extends Bloc<ExploreEvent, ExploreState> {

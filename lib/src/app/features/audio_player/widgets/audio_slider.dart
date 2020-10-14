@@ -1,6 +1,6 @@
-import 'package:audio_player_flutter/src/app/features/audio_player/blocs/blocs.dart'
+import 'package:flutter_audio_player/src/app/features/audio_player/blocs/blocs.dart'
     show AudioPlayerBloc;
-import 'package:audio_player_flutter/src/services/services.dart' show AudioFile;
+import 'package:flutter_audio_player/src/services/services.dart' show AudioFile;
 import 'package:flutter/material.dart';
 
 class AudioSlider extends StatelessWidget {

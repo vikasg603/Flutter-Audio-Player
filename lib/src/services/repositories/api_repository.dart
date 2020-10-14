@@ -1,6 +1,6 @@
-import 'package:audio_player_flutter/src/services/models/models.dart';
-import 'package:audio_player_flutter/src/services/networking/api_service.dart';
-import 'package:audio_player_flutter/src/services/networking/network_checker.dart';
+import 'package:flutter_audio_player/src/services/models/models.dart';
+import 'package:flutter_audio_player/src/services/networking/api_service.dart';
+import 'package:flutter_audio_player/src/services/networking/network_checker.dart';
 import 'package:built_collection/built_collection.dart';
 
 class ApiRepository {
